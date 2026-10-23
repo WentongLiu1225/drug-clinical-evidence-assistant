@@ -1,0 +1,16 @@
+# Environment and credentials
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local files
+.DS_Store
+.vscode/
+runs/
+notes.md
+import_debug.txt

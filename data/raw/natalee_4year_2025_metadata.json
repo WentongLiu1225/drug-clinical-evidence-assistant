@@ -1,0 +1,38 @@
+{
+  "document_id": "natalee_4year_2025",
+  "study_id": "NCT03701334",
+  "title": "Ribociclib Plus Endocrine Therapy in Hormone Receptor–Positive/ERBB2-Negative Early Breast Cancer: 4-Year Outcomes From the NATALEE Randomized Clinical Trial",
+  "source": "JAMA Oncology / PubMed Central",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464853/",
+  "doi": "10.1001/jamaoncol.2025.3700",
+  "file_type": "html",
+  "publication_or_update_date": "2025-09-25",
+  "publication_date_raw": "2025 Sep 25",
+  "data_cutoff_date": "2024-04-29",
+  "analysis_description": "Exploratory 4-year analysis",
+  "downloaded_at": null,
+  "download_note": "Manually saved in a browser; exact download time not recorded.",
+  "processed_at": "2026-10-20T22:09:53.937116+00:00",
+  "local_file_path": "data/raw/natalee_4year_2025.html",
+  "extraction_version": "v1",
+  "included_sections": [
+    "Methods",
+    "Results"
+  ],
+  "excluded_content": [
+    "Abstract",
+    "Introduction",
+    "Discussion and conclusions",
+    "Figures and captions",
+    "Tables and table footnotes",
+    "Supplementary materials",
+    "References"
+  ],
+  "paragraph_count": 14,
+  "limitations": [
+    "Selected body text only, not the complete article.",
+    "In-text reference numbers and figure/table mentions remain.",
+    "Whitespace is normalized; visual formatting is not preserved.",
+    "Locations use HTML sections and paragraph order, not page numbers."
+  ]
+}

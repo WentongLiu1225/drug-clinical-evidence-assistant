@@ -1,0 +1,74 @@
+[
+  {
+    "paragraph_id": "natalee_design_2023_p001",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods",
+    "source_section_id": "section6-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "NATALEE is a global, Phase III, multicenter, randomized, open-label trial in women, regardless of menopausal status, and men with HR+/HER2− EBC. The NATALEE trial is evaluating the efficacy and safety of ribociclib plus standard adjuvant ET versus standard adjuvant ET alone. Men and premenopausal women also receive a luteinizing hormone–releasing hormone agonist (goserelin). The overall patient population ( N = 5101) includes women or men ⩾18 years old. Randomization was stratified by menopausal status, anatomic stage II or III, prior (neo)adjuvant chemotherapy, and geographic region. The enrollment of patients with stage II disease was capped at 40%. A steering committee that comprised investigators, the trial sponsor (Novartis), and Translational Research in Oncology personnel designed the trial and will ensure transparent management of the trial according to the protocol."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p002",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > Eligibility criteria",
+    "source_section_id": "section7-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "Trial eligibility requires completed surgical resection with microscopic margins free of tumor with available archival tumor tissue from surgical specimen or from the diagnostic biopsy for patients who had neoadjuvant therapy and achieved a pathologic complete response. Patients who received prior (neo)adjuvant chemotherapy and adjuvant radiotherapy (if indicated) according to institutional guidelines are required to have completed these treatments >14 days prior to randomization. Eligible patients have a date of initial cytological or histological diagnosis ⩽18 months prior to randomization. Patients are required to have anatomic stage II or stage III disease per anatomic classification in the AJCC Cancer Staging Manual , 8th edition. Enrollment of patients with stage II disease is capped at approximately 2000 patients out of the total trial population. Patients with stage IIA disease may be enrolled if the disease is N1 or N0 or if they have specific features or measures for higher risk of recurrence, such as grade 3 or grade 2 disease. In cases in which the disease is stage IIA or stage N0 or the tumor is grade 2, evidence of high genomic risk is required, such as a Ki-67 score of ⩾20%, an Oncotype DX Breast Recurrence Score of ⩾26, or Prosigna/PAM50, MammaPrint, or EndoPredict EPclin high-risk scores. Patients with stage IIB disease (including N0 and N1) or stage III disease (including N0 and N1) are eligible. Patients with an Eastern Cooperative Oncology Group performance status of 0 or 1 are eligible. Patients are permitted to have already received any standard (neo)adjuvant ET ⩽ 12 months prior to randomization. Key exclusion criteria include prior treatment with a CDK4/6 inhibitor and clinically significant, uncontrolled heart disease, and/or cardiac repolarization abnormalities. Patients are also ineligible if they have distant metastases of breast cancer beyond regional lymph nodes and/or evidence of disease after curative-intent surgery. Patients with prior tamoxifen, raloxifene, or aromatase inhibitor treatment for reduction in risk of breast cancer and/or prior treatment with tamoxifen or raloxifene for osteoporosis within the last 2 years prior to randomization are also excluded. Additional exclusion criteria include major surgery, chemotherapy, or radiotherapy within 14 days prior to randomization and prior treatment with anthracyclines at cumulative doses ⩾450 mg/m 2 for doxorubicin or ⩾900 mg/m 2 for epirubicin ( Table 1 )."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p003",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > Treatment and scheduling",
+    "source_section_id": "section8-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "Patients were randomized 1:1 to receive oral ribociclib in combination with a nonsteroidal aromatase inhibitor (NSAI) versus NSAI alone ( Figure 1 ). Ribociclib is given at 400 mg/day using a 3-week-on 1-week-off schedule. The NSAI partner is either letrozole (2.5 mg/day) or anastrozole (1 mg/day). Choice of NSAI partner is at the discretion of the physician. Men and premenopausal women are also given 3.6 mg of goserelin once every 28 days. Ribociclib is given for 36 months, whereas NSAI treatment (in both arms) is given for ⩾60 months. Patients were required to continue receiving NSAI treatment for the entire 60-month treatment period. In both treatment arms, a change of NSAI was only permitted for protocol-specified reasons, which were the same in both treatment arms. Patients who permanently discontinue NSAI treatment for any reason will proceed to the end-of-treatment and 30-day safety follow-up visits and will remain on trial for the follow-up phase. In the ribociclib arm, a change of NSAI is not allowed, unless it is requested by the patient or if intolerable toxicity or any other medically important event occurs. After the end of treatment with ribociclib and NSAI, investigators are permitted to change ET according to clinical guidelines and local prescription information. Subsequent ET (or any other anticancer treatment) given after the protocol-required 60 months’ duration (or after premature discontinuation of ET in the trial) will be administered according to the investigator’s clinical judgment and is not considered a trial treatment."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p004",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > Assessments",
+    "source_section_id": "section9-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "Trial visits are scheduled to take place at screening, randomization, during treatment, approximately 30 days after discontinuation of ribociclib (investigational arm only), end of treatment (within 15 days after discontinuation of all trial treatments), approximately 30 days after discontinuation of all trial treatments, and during follow-up ( Figure 2 )."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p005",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > End points",
+    "source_section_id": "section10-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "The primary end point of the NATALEE trial is iDFS according to Standardized Definitions for Efficacy End Points (STEEP) criteria as assessed by the investigator. The STEEP definition of iDFS includes invasive, ipsilateral breast tumor recurrence, local or regional invasive recurrence, distant recurrence, death (from breast cancer, nonbreast cancer, or unknown cause), invasive, contralateral breast cancer, or second primary invasive cancer (nonbreast cancer). Secondary end points include recurrence-free survival, distant disease-free survival, OS, safety and tolerability, QOL, and pharmacokinetics. Exploratory analyses of biomarkers from tumor tissue or blood samples are also planned. Tumor tissue samples are collected to identify biomarkers that may be predictive of benefit from ribociclib and to assess molecular alterations of genes shown to be associated with HR + breast cancer and the cell cycle. Optional blood samples for pharmacogenetic analysis are collected in consenting patients. Also, in patients who provide consent, optional additional biomarker analyses are planned."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p006",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > Statistical analysis",
+    "source_section_id": "section11-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "Interim analyses are planned after approximately 200, 350, and 425 iDFS events. The final analysis will be after 500 events have occurred. The primary objective of the first interim analysis was to allow for stoppage due to futility with no intent to assess for superior efficacy. The first interim analysis was completed in 2022, and the recommendation was to continue the trial. The second and third interim analyses allow the trial to assess superior efficacy and will only be carried out after all patients have been randomized and (if not withdrawn early) have had at least one postbaseline recurrence assessment. After the final analysis is completed, additional descriptive updates to the efficacy and safety data are planned after 2 years and at the end of the trial, approximately 5 years after the last patient is randomized."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p007",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > Statistical analysis",
+    "source_section_id": "section11-17588359231178125",
+    "paragraph_in_section": 2,
+    "text": "The sample size calculation is based on iDFS. The final analysis will be performed after approximately 500 iDFS events have been documented with approximately 93% power to detect a statistically significant improvement in iDFS with ribociclib + ET versus ET under a target hazard ratio of 0.73."
+  },
+  {
+    "paragraph_id": "natalee_design_2023_p008",
+    "document_id": "natalee_design_2023",
+    "study_id": "NCT03701334",
+    "section": "Methods > Participating institutions",
+    "source_section_id": "section12-17588359231178125",
+    "paragraph_in_section": 1,
+    "text": "NATALEE has included patients from 384 sites in 20 countries: Argentina, Australia, Austria, Belgium, Brazil, Canada, China, France, Germany, Hungary, Ireland, Italy, Poland, Romania, Spain, Taiwan, the Republic of Korea, the Russian Federation, the United Kingdom and the United States."
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "paragraph_id": "natalee_4year_2025_p001",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Methods > Study Design and Patients",
+    "source_section_id": "H2-1-COI250058",
+    "paragraph_in_section": 1,
+    "text": "NATALEE study design and patient population details have been previously published. 10 , 22 In brief, 5101 patients with HR-positive/ ERBB2 -negative EBC were randomized 1:1 to receive ribociclib (400 mg once daily, days 1-21 of a 28-day cycle, over 36 months) with an NSAI (letrozole, 2.5 mg, or anastrozole, 1 mg, once daily continuously for 60 months) or an NSAI alone (eFigure 5 in Supplement 2 ). Men and premenopausal women also received goserelin (3.6 mg once every 28 days administered subcutaneously). Patients were considered to be receiving study treatment if they continued taking an NSAI (up to 5 years), regardless of ribociclib discontinuation. Randomization was stratified by menopausal status (men/premenopausal women or postmenopausal women), anatomic stage (II or III), prior neoadjuvant and/or adjuvant chemotherapy (yes or no), and geographic location (North America, Western Europe, Oceania, or rest of the world). Eligible patients had anatomic stage IIA (N0 with a grade 2 tumor with a Ki-67 index ≥20% or high genomic risk, N0 with a grade 3 tumor, or N1), stage IIB, or stage III disease per classification in the American Joint Committee on Cancer Staging Manual, eighth edition . 23"
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p002",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Methods > Study Design and Patients",
+    "source_section_id": "H2-1-COI250058",
+    "paragraph_in_section": 2,
+    "text": "NATALEE was conducted across 384 sites in 20 countries and in accordance with the provisions of the International Council for Harmonisation’s Good Clinical Practice guidelines, with applicable local regulations and the ethical principles in the Declaration of Helsinki. The study protocol ( Supplement 1 ) was reviewed and approved by the institutional review board or ethics committee for each participating center. An independent data monitoring committee reviewed safety and efficacy data per study protocol. All patients provided written informed consent. The Consolidated Standards of Reporting Trials ( CONSORT ) reporting guidelines were followed."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p003",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Methods > End Points",
+    "source_section_id": "H2-2-COI250058",
+    "paragraph_in_section": 1,
+    "text": "The primary end point was iDFS, defined according to STEEP (Standardized Definitions for Efficacy Endpoints) criteria, version 1.0 (eTable 1 in Supplement 2 ). Secondary end points included DDFS, recurrence-free survival (RFS), overall survival, safety, quality of life, and pharmacokinetics. Distant recurrence-free survival (DRFS) was an exploratory end point. Treatment-emergent adverse events (AEs) were monitored for 36 months or up to the last dose of ribociclib for patients who discontinued treatment early from the time of randomization plus an additional 30-day follow-up. Serious AEs were monitored throughout the trial. We used the National Cancer Institute’s Common Terminology Criteria for Adverse Events, version 4.03, to grade AEs and serious AEs."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p004",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Methods > Statistical Analysis",
+    "source_section_id": "H2-3-COI250058",
+    "paragraph_in_section": 1,
+    "text": "Primary and secondary end points were evaluated using the Kaplan-Meier method. Hazard ratios were calculated using a stratified Cox proportional hazards model, which included 95% CIs. Efficacy analyses were performed in the intent-to-treat (ITT) population. Safety analyses were conducted in patients who received 1 or more doses of ribociclib or ET. SAS, version 9.4 (SAS Institute), was used to perform analyses."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p005",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Patients and Treatment",
+    "source_section_id": "H2-4-COI250058",
+    "paragraph_in_section": 1,
+    "text": "Baseline patient characteristics were balanced across treatment arms. Among the 5101 patients included in the analysis, the median (range) age was 52 (24-90) years, 5081 patients (99.6%) were female, and 20 patients (0.4%) were male. At the data cutoff (April 29, 2024), all patients in the ribociclib plus NSAI arm (n = 2549) were no longer receiving ribociclib treatment: 1601 (62.8%) completed 3 years of ribociclib treatment, and 509 (20.0%) stopped taking ribociclib early due to AEs. Complete patient disposition details and therapy discontinuations are summarized in Table 1 ."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p006",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Patients and Treatment",
+    "source_section_id": "H2-4-COI250058",
+    "paragraph_in_section": 2,
+    "text": "For 901 patients (56.3%), it had been more than 1 year since completing ribociclib treatment. Median follow-up for iDFS was 44.2 months (range, 0-63 months). In the safety set, the mean (SD) relative dose intensity was 83.4% (19.7%), accounting for dose adjustments and dose holds and corresponding to a mean (SD) dose intensity of 333.58 (78.98) mg/d. The mean (SD) duration of exposure was 26.5 (13.7) months. Median duration of treatment was 35.7 months (range, 0-37.0 months) for ribociclib and 45.0 months (range, 0-60.8 months) for NSAI in the ribociclib plus NSAI arm and 44.7 months (range, 0-60.1 months) for NSAI alone. Ten of 2549 patients (0.4%) in the ribociclib plus NSAI arm and 9 of 2552 patients in the NSAI alone arm completed 5 years of study treatment, and 1794 (70.4%) and 1628 (63.8%), respectively, had NSAI treatment ongoing. NSAI discontinuations were most commonly due to recurrence in both arms (196 patients [7.7%] in the ribociclib plus NSAI arm vs 267 patients [10.5%] in the NSAI alone arm). Among patients who did not complete the planned 3-year ribociclib treatment duration, median time receiving treatment was 5.7 months (range, 0.03-35.5 months), with AEs being the primary reason for early discontinuation."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p007",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Efficacy",
+    "source_section_id": "H2-5-COI250058",
+    "paragraph_in_section": 1,
+    "text": "In this exploratory 4-year analysis, 603 iDFS events were documented; this includes an additional 94 events recorded since the protocol-specified final iDFS analysis. 21 Of the 603 iDFS events, 263 (10.3%) were in the ribociclib plus NSAI arm and 340 (13.3%) were in the NSAI alone arm. With all patients no longer taking ribociclib, adjuvant ribociclib plus NSAI continued to demonstrate an iDFS benefit over NSAI alone, with a 28.5% reduction in the risk of iDFS events (hazard ratio, 0.72; 95% CI, 0.61-0.84; Figure 1 ). Three-year iDFS rates were 90.8% vs 88.1% (difference, 2.7 percentage points). Four-year iDFS rates were 88.5% with ribociclib plus NSAI and 83.6% with NSAI alone, representing a 4.9 (95% CI, 2.7-7.1) percentage point absolute iDFS benefit as the Kaplan-Meier curves continue to separate."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p008",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Efficacy",
+    "source_section_id": "H2-5-COI250058",
+    "paragraph_in_section": 2,
+    "text": "A consistent iDFS benefit with ribociclib plus NSAI was also observed across subgroups ( Figure 2 ). An absolute iDFS benefit at 4 years was seen regardless of stage or nodal status (eFigure 1 and eTable 2 in Supplement 2 ). iDFS benefit with ribociclib plus NSAI at 4 years was consistent regardless of prior ET (eFigure 2 and eTable 3 in Supplement 2 )."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p009",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Efficacy",
+    "source_section_id": "H2-5-COI250058",
+    "paragraph_in_section": 3,
+    "text": "Most iDFS events were distant recurrence, with 176 (6.9%) occurring in the ribociclib plus NSAI arm and 246 (9.6%) occurring in the NSAI alone arm (eTable 4 in Supplement 2 ). The most frequent disease-recurrence sites were bone and liver in both treatment arms."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p010",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Efficacy",
+    "source_section_id": "H2-5-COI250058",
+    "paragraph_in_section": 4,
+    "text": "Ribociclib plus NSAI demonstrated a consistent DDFS (hazard ratio, 0.72; 95% CI, 0.60-0.85; Figure 3 A), RFS (hazard ratio, 0.70; 95% CI, 0.58-0.83; Figure 3 B), and DRFS (hazard ratio, 0.71; 95% CI, 0.59-0.84; Figure 3 C) benefit over NSAI alone in the ITT population. At the data cutoff, overall survival data were immature, although a trend for benefit with ribociclib plus NSAI over NSAI alone was observed (hazard ratio, 0.83; 95% CI, 0.64-1.07; Figure 3 D)."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p011",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Efficacy",
+    "source_section_id": "H2-5-COI250058",
+    "paragraph_in_section": 5,
+    "text": "The DDFS benefit at 4 years was consistent across other clinically relevant subgroups, including menopausal status and Ki-67 status (eFigure 3 in Supplement 2 ). The DDFS benefit with ribociclib plus NSAI was consistent across anatomic stages (stage IIA: hazard ratio, 0.40; 95% CI, 0.22-0.72; stage IIB: hazard ratio, 0.81; 95% CI, 0.52-1.24; stage IIIA: hazard ratio, 0.70; 95% CI, 0.52-0.93; stage IIIB: hazard ratio, 0.57; 95% CI, 0.33-0.99; stage IIIC: hazard ratio, 0.88; 95% CI, 0.65-1.19; eFigure 3 in Supplement 2 ). The absolute DDFS benefit with ribociclib plus NSAI vs NSAI alone at 4 years was 5.1% for stage IIA, 2.6% for stage IIB, 4.6% for stage IIIA, 11.4% for stage IIIB, and 4.5% for stage IIIC. A consistent DDFS benefit was observed with ribociclib plus NSAI regardless of nodal status (N0: hazard ratio, 0.70; 95% CI, 0.40-1.20; node positive: hazard ratio, 0.73; 95% CI, 0.61-0.87; eFigure 3 in Supplement 2 ), with 4-year absolute DDFS benefit of 4.2% in the N0 subgroup and 4.6% in the node-positive subgroup. A consistent DDFS benefit with ribociclib plus NSAI was observed regardless of prior ET (eFigure 4 in Supplement 2 )."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p012",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Safety",
+    "source_section_id": "H2-6-COI250058",
+    "paragraph_in_section": 1,
+    "text": "No new safety signals were observed with additional follow-up. At least 1 treatment-emergent AE occurred in 2478 patients (98.1%) in the ribociclib plus NSAI arm vs 2155 patients (88.3%) in the NSAI alone arm. Serious AEs occurred in 375 patients (14.8%) in the ribociclib plus NSAI arm vs 267 patients (10.9%) in the NSAI alone arm."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p013",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Safety",
+    "source_section_id": "H2-6-COI250058",
+    "paragraph_in_section": 2,
+    "text": "Consistent with prior analyses, the most common all-grade AEs in the ribociclib plus NSAI arm were neutropenia, arthralgia, and nausea ( Table 2 ). Liver-related AEs were predominantly alanine aminotransferase or aspartate aminotransferase elevations without concomitant bilirubin increase. All-grade QT interval prolongation events occurred in 136 patients (5.4%) in the ribociclib plus NSAI arm vs 38 patients (1.6%) in the NSAI alone arm. Grade 3 or higher QT interval prolongation events were rare (25 patients [1.0%] with ribociclib plus NSAI vs 17 patients [0.7%] with NSAI alone)."
+  },
+  {
+    "paragraph_id": "natalee_4year_2025_p014",
+    "document_id": "natalee_4year_2025",
+    "study_id": "NCT03701334",
+    "section": "Results > Safety",
+    "source_section_id": "H2-6-COI250058",
+    "paragraph_in_section": 3,
+    "text": "At the time of this analysis, 687 patients (27.2%) required a ribociclib dose reduction, with the primary reason being AEs (582 patients [23.0%]). Early discontinuation due to AEs occurred in 509 patients (20.0%) in the ribociclib plus NSAI arm, representing a less than 1% increase from the protocol-specified final iDFS analysis (498 patients [19.5%]). The most frequent AEs leading to ribociclib discontinuation were alanine aminotransferase increase (all grades: 182 patients [7.2%]) and aspartate aminotransferase increase (all grades: 67 patients [2.7%]). Reasons for on-treatment deaths have been previously published, and no additional on-treatment deaths occurred since the protocol-specified final iDFS analysis. 10"
+  }
+]

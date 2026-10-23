@@ -1,0 +1,27 @@
+{
+  "document_id": "natalee_design_2023",
+  "study_id": "NCT03701334",
+  "title": "Rationale and trial design of NATALEE: a Phase III trial of adjuvant ribociclib + endocrine therapy versus endocrine therapy alone in patients with HR+/HER2− early breast cancer",
+  "source": "Therapeutic Advances in Medical Oncology / PMC",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10233570/",
+  "doi": "10.1177/17588359231178125",
+  "file_type": "html",
+  "publication_or_update_date": "2023-05-29",
+  "downloaded_at": null,
+  "acquisition_method": "manual_browser_save",
+  "local_path": "data/raw/natalee_design_2023.html",
+  "extraction_scope": "Methods section text paragraphs only",
+  "excluded_content": [
+    "Abstract",
+    "Introduction",
+    "Discussion",
+    "Figures and captions",
+    "Tables and table footnotes",
+    "References"
+  ],
+  "correction_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10541727/",
+  "known_limitations": [
+    "Superscript formatting is not preserved, for example mg/m² becomes mg/m 2.",
+    "The extracted text does not cover the full article."
+  ]
+}

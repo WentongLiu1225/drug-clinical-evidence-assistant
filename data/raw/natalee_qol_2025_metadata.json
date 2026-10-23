@@ -1,0 +1,27 @@
+{
+  "document_id": "natalee_qol_2025",
+  "study_id": "NCT03701334",
+  "title": "Health-Related Quality of Life in Patients with HR+/HER2− Early Breast Cancer Treated with Ribociclib Plus a Nonsteroidal Aromatase Inhibitor: Results from the NATALEE Trial",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12010963/",
+  "file_type": "html",
+  "journal": "Clinical Cancer Research",
+  "doi": "10.1158/1078-0432.CCR-24-1724",
+  "publication_date": "2025-02-28",
+  "publication_date_raw": "2025 Feb 28",
+  "publication_date_source": "HTML citation_publication_date",
+  "downloaded_at": null,
+  "download_note": "Manually saved HTML; exact download date was not recorded.",
+  "processed_at": "2026-10-22T04:07:26.892357+00:00",
+  "local_file": "data/raw/natalee_qol_2025.html",
+  "data_cutoff_date": "2023-01-11",
+  "data_cutoff_source_section": "s3-1",
+  "extraction_version": "v1",
+  "paragraph_count": 23,
+  "extraction_scope": "Selected Patients and Methods and Results subsections, plus the Discussion limitations paragraph.",
+  "limitations": [
+    "Figures, tables, and supplementary files are not extracted.",
+    "Abstract and most Discussion text are not extracted.",
+    "In-text reference numbers and figure references may remain.",
+    "Locations refer to HTML sections and paragraphs, not pages."
+  ]
+}
